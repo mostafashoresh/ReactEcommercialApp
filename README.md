@@ -10,3 +10,5 @@
 // PWA 
 // Nhost
 
+// After all this, I will refactor the project with Typescript !
+
